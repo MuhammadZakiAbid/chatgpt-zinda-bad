@@ -1,3 +1,3 @@
 # This program prints Hello, world!
 
-print('this is test'
+print('this is test')
